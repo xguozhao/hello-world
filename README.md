@@ -1,2 +1,3 @@
 # hello-world
-this is new area for GJ's life
+
+hi guys, i will creat new things asap.
